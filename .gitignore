@@ -1,3 +1,4 @@
+.gitignore
 # Java & build
 bin/
 out/
